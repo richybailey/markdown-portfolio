@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### Things that I like
+- Star Wars
+- Music
+  - James
+  - Stone Roses
+  - etc
